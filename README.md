@@ -1,2 +1,2 @@
 # Chat-SpringBootWebSocket
-Chat desenvolvido utilizando Java e SpringBoot
+Chat desenvolvido utilizando Java, SpringBoot e WebSocket
