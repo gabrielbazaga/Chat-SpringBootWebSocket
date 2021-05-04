@@ -1,2 +1,3 @@
 # Chat-SpringBootWebSocket
-Chat desenvolvido utilizando Java, SpringBoot e WebSocket
+Chat desenvolvido para praticar habilidades de programação.
+Programado em Java 8, foi utilizado SpringBoot e WebSocket no back-end.
